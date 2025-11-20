@@ -144,6 +144,10 @@
     "download_url": "https://raw.githubusercontent.com/amidaware/reporting-templates/master/templates/Bitlocker%20Custom%20Field%20%28csv%29.json"
   },
   {
+    "name": "Client System Capacity (html)",
+    "download_url": "https://raw.githubusercontent.com/amidaware/reporting-templates/master/templates/Client%20System%20Capacity%20%28html%29.json"
+  },
+  {
     "name": "Comprehensive Report HTML v1.3",
     "download_url": "https://raw.githubusercontent.com/amidaware/reporting-templates/master/templates/Comprehensive%20Report%20HTML%20v1.3.json"
   },
@@ -162,6 +166,10 @@
   {
     "name": "Machine Specs (csv)",
     "download_url": "https://raw.githubusercontent.com/amidaware/reporting-templates/master/templates/Machine%20Specs%20%28csv%29.json"
+  },
+  {
+    "name": "Memory Check Alert Percentage (html)",
+    "download_url": "https://raw.githubusercontent.com/amidaware/reporting-templates/master/templates/Memory%20Check%20Alert%20Percentage%20%28html%29.json"
   },
   {
     "name": "NOC Dashboard v1.25",
